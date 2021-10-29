@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 14:56:18 UTC 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635432978303
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.sonatype.forge\:forge-parent\:pom\:5 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635432978272

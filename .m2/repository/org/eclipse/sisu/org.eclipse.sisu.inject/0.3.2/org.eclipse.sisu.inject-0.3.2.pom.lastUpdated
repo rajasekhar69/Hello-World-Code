@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:00:18 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433218260
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635433218739
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433218513
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.eclipse.sisu\:org.eclipse.sisu.inject\:pom\:0.3.2 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433218714
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433218366

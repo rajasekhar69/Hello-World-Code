@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:02:10 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433312173
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433322208
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.jboss.marshalling\:jboss-marshalling-osgi\:jar\:2.0.6.Final from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433330058
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433317731

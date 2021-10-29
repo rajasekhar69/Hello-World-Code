@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 14:58:46 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433116424
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433123371
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact javax.validation\:validation-api\:jar\:2.0.1.Final from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433126824
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433120608

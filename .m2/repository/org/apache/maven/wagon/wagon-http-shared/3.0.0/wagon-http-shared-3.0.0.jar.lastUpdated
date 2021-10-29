@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:02:11 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433312161
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635433331939
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433322200
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.maven.wagon\:wagon-http-shared\:jar\:3.0.0 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433330043
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433317727

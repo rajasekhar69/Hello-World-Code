@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 14:58:21 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433100632
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635433101151
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433100914
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.google.guava\:guava\:pom\:27.1-jre from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433101118
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433100777

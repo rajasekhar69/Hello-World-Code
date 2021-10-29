@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:24:03 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635434638177
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635434643187
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635434641407
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact javax.servlet.jsp.jstl\:jstl-api\:jar\:1.2 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635434642380
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635434640243

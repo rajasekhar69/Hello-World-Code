@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:23:33 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635434612510
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635434613257
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635434612753
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.fasterxml.jackson.datatype\:jackson-datatype-jsr310\:pom\:2.12.4 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635434613147
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635434612563

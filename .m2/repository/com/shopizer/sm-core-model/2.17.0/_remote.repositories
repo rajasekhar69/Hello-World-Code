@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 14:59:21 UTC 2021
+sm-core-model-2.17.0.jar>=
+sm-core-model-2.17.0.pom>=
+sm-core-model-2.17.0-sources.jar>=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:02:10 UTC 2021
+jgroups-4.0.21.Final.jar>org.jboss.repository.releases=
+jgroups-4.0.21.Final.pom>org.jboss.repository.releases=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:23:56 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635434636307
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635434636731
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635434636629
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact net.sourceforge.nekohtml\:nekohtml\:pom\:1.9.22 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635434636700
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635434636476

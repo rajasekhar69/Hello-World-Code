@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 15:24:03 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635434638169
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635434643179
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635434641401
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.latencyutils\:LatencyUtils\:jar\:2.0.3 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635434642378
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635434640232

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 14:56:50 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433010336
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635433010606
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433010504
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.67.Final from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433010574
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433010381

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 14:58:49 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433116414
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635433129338
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433123366
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.sun.istack\:istack-commons-runtime\:jar\:3.0.12 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433126818
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433120602

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 28 14:58:13 UTC 2021
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1635433093321
+https\://repo.maven.apache.org/maven2/.lastUpdated=1635433093723
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1635433093627
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.httpcomponents\:httpcomponents-client\:pom\:4.5.13 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1635433093693
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1635433093473
